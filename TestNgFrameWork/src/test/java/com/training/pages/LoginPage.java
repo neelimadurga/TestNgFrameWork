@@ -12,7 +12,7 @@ public class LoginPage extends BasePage
 	{
 		super(driver);
 	}
-	
+	//Comment added to Login  page
 	@FindBy(id = "email_field")
 	WebElement email;
 	
