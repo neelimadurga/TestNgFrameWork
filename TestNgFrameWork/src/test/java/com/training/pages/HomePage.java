@@ -15,6 +15,7 @@ public class HomePage extends BasePage
 	}
 	
 	//Comment added to home page
+	//Extra comment
 	
     //inspecting elements	
 	@FindBy(xpath = "//a[text()='Home']")
